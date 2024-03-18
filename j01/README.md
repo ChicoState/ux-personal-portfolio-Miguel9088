@@ -5,17 +5,18 @@
 The Resident's application is for doing the most common actions such as making payments, getting updates, and managing the account. These applications will allow me to submit multiple payments and message the company.
 ### App: Residents 
 
-![Image 1](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/2.jpg)
-![Image 2](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/3.jpg)
-![Image 3](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg)
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/2.jpg" alt="Image 1" width="300" height="200">
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/3.jpg" alt="Image 2" width="300" height="200">
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg" alt="Image 3" width="300" height="200">
+
 
 While I was paying the rent of my apartment I encountered a problem with paying with their app. The problem was that when I tried to pay, I needed to add a new card which the button called “**ADD A NEW ACCOUNT**” and would result in the session being closed and an error code being time out. This was a problem for me since I wanted to pay my rent on time before they charged me extra for a late fee. This situation escalates when the app starts to crash. This was an **Error Tolerance** since my roommates also experienced the same problem that we both encountered. 
 
 ### App: Residents 
 
-![Image 1](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/5.jpg)
-![Image 2](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/4.jpg)
-![Image 3](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg)
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/5.jpg" alt="Image 1" width="300" height="200">
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/4.jpg" alt="Image 2" width="300" height="200">
+<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg" alt="Image 3" width="300" height="200">
 
 
 
