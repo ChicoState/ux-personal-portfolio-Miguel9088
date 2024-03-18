@@ -1,5 +1,4 @@
 # Trail and Error
-## Naturally Selection 
 ### Miguel Ocampo
 #### Mar 17, 2024
 
