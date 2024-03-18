@@ -6,7 +6,7 @@ The Resident's application is for doing the most common actions such as making p
 ### App: Residents 
 
 <div style="display: flex;">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/2.jpg"  width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/2.jpg"   width="400" height="250">
     <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/3.jpg" width="200">
     <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/1.jpg"  width="200">
 </div>
