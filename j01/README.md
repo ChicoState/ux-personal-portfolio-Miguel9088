@@ -6,9 +6,9 @@ The Resident's application is for doing the most common actions such as making p
 ### App: Residents 
 
 <div style="display: flex;">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/2.jpg" width="200">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/3.jpg" width="200">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/1.jpg"  width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/2.jpg" width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/3.jpg" width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg"  width="200">
 </div>
 
 
@@ -16,9 +16,9 @@ While I was paying the rent of my apartment I encountered a problem with paying 
 
 ### App: Residents 
 <div style="display: flex;">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/5.jpg"  width="200">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/4.jpg" width="200">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/1.jpg" width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/5.jpg"  width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/4.jpg" width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg" width="200">
 </div>
 
 Our idea was that if we deleted the data and cleared the cache it might reset the application setting to factory, and then it would function properly. We did that and we were able to enter our card information into our account, but then it still timed out. Then we turned off the wifi setting and restarted the phone, which resulted in the application working properly and I could pay my rent on time. Our last scenario was **Efficiency** since we were debugging the situation to resolve it on time. By following all these steps we learn **Useful** troubleshooting steps that could be applied in a situation.
