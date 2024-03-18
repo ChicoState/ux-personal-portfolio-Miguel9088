@@ -16,9 +16,7 @@ While I was paying the rent of my apartment I encountered a problem with paying 
 ![Image 1](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/5.jpg)
 ![Image 2](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/4.jpg)
 ![Image 3](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg)
-<img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/5.jpg" >
-<img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/4.jpg" >
-<img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg" >
+
 
 
 Our idea was that if we deleted the data and cleared the cache it might reset the application setting to factory, and then it would function properly. We did that and we were able to enter our card information into our account, but then it still timed out. Then we turned off the wifi setting and restarted the phone, which resulted in the application working properly and I could pay my rent on time. Our last scenario was **Efficiency** since we were debugging the situation to resolve it on time. By following all these steps we learn **Useful** troubleshooting steps that could be applied in a situation.
