@@ -13,6 +13,9 @@ While I was paying the rent of my apartment I encountered a problem with paying 
 
 ### App: Residents 
 
+![Image 1](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/5.jpg)
+![Image 2](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/4.jpg)
+![Image 3](https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/1.jpg)
 <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/5.jpg" >
 <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/4.jpg" >
 <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg" >
