@@ -5,15 +5,15 @@
 The Resident's application is for doing the most common actions such as making payments, getting updates, and managing the account. These applications will allow me to submit multiple payments and message the company.
 ### App: Residents 
 
-<div style="display: flex;">
-  ![Image 1][1]
-  ![Image 2][2]
-  ![Image 3][3]
 
-  [1]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/2.jpg
-  [2]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/3.jpg
-  [3]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg
-</div>
+![Image 1][1]
+![Image 2][2]
+![Image 3][3]
+
+[1]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/2.jpg
+[2]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/3.jpg
+[3]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg
+
 
 
 
