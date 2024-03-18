@@ -8,7 +8,7 @@ The Resident's application is for doing the most common actions such as making p
 <div style="display: flex;">
     <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/2.jpg" width="200">
     <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/3.jpg" width="200">
-    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/photo/1.jpg"  width="200">
+    <img src="https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/j01/1.jpg"  width="200">
 </div>
 
 
