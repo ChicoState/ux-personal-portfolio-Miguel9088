@@ -6,9 +6,14 @@ The Resident's application is for doing the most common actions such as making p
 ### App: Residents 
 
 
-<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/2.jpg" >
-<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/3.jpg" >
-<img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/1.jpg" >
+![Image 1][1]
+![Image 2][2]
+![Image 3][3]
+
+[1]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/2.jpg
+[2]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/3.jpg
+[3]: https://github.com/ChicoState/ux-personal-portfolio-Miguel9088/blob/master/1.jpg
+
 
 
 
