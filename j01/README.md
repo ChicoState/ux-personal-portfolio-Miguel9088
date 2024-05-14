@@ -3,7 +3,7 @@
 #### Mar 17, 2024
 
 The aplication that I am using is called "Resident", its main purpose of this app making payments, getting updates, and managing the account. These applications will allow me to submit multiple payments and message the company. 
-fix it more
+fix it more.
 ### App: Residents 
 
 <img src="https://raw.githubusercontent.com/ChicoState/ux-personal-portfolio-Miguel9088/master/j01/photo/2.jpg" alt="Image 1" width="200" height="350">
